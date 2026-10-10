@@ -1,5 +1,4 @@
-{
-  "$schema": "https://nextjs.org/schema",
-  "appDir": true,
-  "turbo": true
-}
+/** @type {import('next').NextConfig} */
+const nextConfig = {};
+
+export default nextConfig;
